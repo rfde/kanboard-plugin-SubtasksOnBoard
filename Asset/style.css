@@ -1,0 +1,12 @@
+table.table-suboncard {
+	margin-bottom: 0;
+	background-color:  #00000011;
+}
+table.table-suboncard td {
+	font-size: .8em;
+	border: none !important;
+	padding: 0 !important;
+}
+table.table-suboncard tr {
+	border: none;
+}

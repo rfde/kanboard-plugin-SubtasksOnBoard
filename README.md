@@ -3,6 +3,8 @@ Show Subtasks on Board
 
 Adds subtasks to the cards in board view.
 
+![screenshot](https://i.imgur.com/hfxdH7P.png)
+
 Author
 ------
 

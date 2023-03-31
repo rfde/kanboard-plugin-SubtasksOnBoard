@@ -1,6 +1,11 @@
 Show Subtasks on Board
 ==============================
 
+**This plugin is now maintained by [https://github.com/JustFxDev](@JustFxDev). Check out his fork for the latest updates:** https://github.com/JustFxDev/SubtasksOnBoard
+
+Original version
+---
+
 Adds subtasks to the cards in board view.
 
 ![screenshot](https://i.imgur.com/hfxdH7P.png)

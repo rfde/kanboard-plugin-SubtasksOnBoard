@@ -1,7 +1,7 @@
 Show Subtasks on Board
 ==============================
 
-**This plugin is now maintained by [https://github.com/JustFxDev](@JustFxDev). Check out his fork for the latest updates:** https://github.com/JustFxDev/SubtasksOnBoard
+**This plugin is now maintained by [@JustFxDev](https://github.com/JustFxDev). Check out his fork for the latest updates:** https://github.com/JustFxDev/SubtasksOnBoard
 
 Original version
 ---
